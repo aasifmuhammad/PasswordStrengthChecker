@@ -23,6 +23,7 @@ st.markdown("""
     .stButton button:hover {
         background-color: white;
         color:#26aefc;
+        border:5px solid #26aefc;
     }
 </style>
 """, unsafe_allow_html=True)
