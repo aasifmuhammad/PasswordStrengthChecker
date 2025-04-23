@@ -21,7 +21,8 @@ st.markdown("""
         font-size: 18px;
     }
     .stButton button:hover {
-        background-color: #45a049;
+        background-color: white;
+        color:#26aefc;
     }
 </style>
 """, unsafe_allow_html=True)
