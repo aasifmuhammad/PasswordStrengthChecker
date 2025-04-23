@@ -19,13 +19,13 @@ st.markdown("""
         background-color: #26aefc;
         color: white;
         font-size: 18px;
-        border-radius:5px;
+        border-radius:15px;
     }
     .stButton button:hover {
         background-color: white;
         color:#26aefc;
         border:2px solid #26aefc;
-        border-radius:5px;
+        border-radius:15px;
     }
 </style>
 """, unsafe_allow_html=True)
